@@ -1,0 +1,13 @@
+{
+  "name": "alvas-campus-wayfinder",
+  "version": "1.0.0",
+  "description": "Alva's Campus Wayfinder with SQLite Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["alvas", "wayfinder", "campus", "sqlite", "portal"],
+  "author": "Alva's Education Foundation",
+  "license": "ISC"
+}
